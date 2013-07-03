@@ -28,3 +28,9 @@ This is a simple gambling casino. Play this game when you don't have anything el
 1. Type 'highscores' to view current mode's highscores
 2. Type 'save' to save your score and exit (finish playing)
 3. Type 'quit' to exit the game
+
+#### How to play
+1. You must have Ruby interpreter installed. Get this one here : http://rubyinstaller.org/downloads/
+2. When you're done open 'casino_mujur.rb' file using the Ruby program on your C:\Ruby200\bin\ruby.exe
+3. Or in command prompt, go to the directory of the game, and type 'ruby casino_mujur.rb'
+4. Happy playing :)
