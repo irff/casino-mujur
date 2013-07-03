@@ -7,21 +7,21 @@ This is a simple gambling casino. Play this game when you don't have anything el
 3. Exit command
 
 #### Mode List
-1. 	Normal Mode
-	Money Used = 2 times your bet, if you scored 0
+1. 	Normal Mode  
+	Money Used = 2 times your bet, if you scored 0  
 	Money Used = your bet, if you scored more than 0
-2.	Easy Mode
-	Money Used = your bet, if you scored 0
+2.	Easy Mode  
+	Money Used = your bet, if you scored 0  
 	Money Used = your bet, if you scored more than 0
-3.	Limited Mode 
-	Normal Mode with limited number of turns
+3.	Limited Mode  
+	Normal Mode with limited number of turns  
 	Play this mode if you want a competitive game with your mates
-4.	Growing Mode
-	Normal Mode
+4.	Growing Mode  
+	Normal Mode  
 	The low and high bet limit will constantly invrease as your money does
-5.	Limited Easy Mode
+5.	Limited Easy Mode  
 	Easy Mode with limited number of turns
-6.	Growing Easy Mode
+6.	Growing Easy Mode  
 	Easy mode with growing bet limit
 
 #### In-game commands
